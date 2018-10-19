@@ -1,0 +1,16 @@
+Project	# ortholog relations	avg Schlicker
+EggNOG	77973	0.4991 +- 0.0016
+PANTHER 8.0 (all)	174752	0.4658 +- 0.0011
+RBH / BBH	74024	0.5076 +- 0.0016
+RSD 0.8 1e-5 Deluca	63070	0.5121 +- 0.0018
+metaPhOrs incomplete	135207	0.4756 +- 0.0012
+orthoinspector 1.30 (blast threshold 10-9)	103398	0.4957 +- 0.0014
+phylomeDB	104302	0.4900 +- 0.0014
+Ensembl Compara (e81)	90848	0.4940 +- 0.0015
+Hieranoid 2	104159	0.4933 +- 0.0014
+InParanoid	126903	0.4824 +- 0.0012
+InParanoidCore	66163	0.5098 +- 0.0017
+OMA GETHOGs	123176	0.4815 +- 0.0012
+OMA Groups (RefSet5)	38341	0.5202 +- 0.0023
+PANTHER 8.0 (LDO only)	61595	0.5118 +- 0.0018
+OMA Pairs (Refset5)	75621	0.5005 +- 0.0016

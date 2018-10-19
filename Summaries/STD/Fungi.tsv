@@ -1,0 +1,16 @@
+Project	# completed tree samplings (of 50k trials)	# uploaded orthologs	avg RF distance( genetree , speciestree )	avg fraction incorrect trees
+EggNOG	2062	14821	0.237 +- 0.013	0.405 +- 0.021
+PANTHER 8.0 (all)	2572	17338	0.284 +- 0.013	0.465 +- 0.019
+RBH / BBH	2210	14135	0.256 +- 0.013	0.433 +- 0.021
+RSD 0.8 1e-5 Deluca	1945	12673	0.249 +- 0.014	0.424 +- 0.022
+metaPhOrs incomplete	2347	17612	0.256 +- 0.013	0.427 +- 0.020
+orthoinspector 1.30 (blast threshold 10-9)	2208	15564	0.240 +- 0.013	0.411 +- 0.021
+phylomeDB	2380	16626	0.244 +- 0.013	0.417 +- 0.020
+Ensembl Compara (e81)	1945	14359	0.251 +- 0.014	0.425 +- 0.022
+Hieranoid 2	2144	15247	0.228 +- 0.013	0.395 +- 0.021
+InParanoid	2315	16497	0.241 +- 0.013	0.411 +- 0.020
+InParanoidCore	1673	12123	0.217 +- 0.014	0.380 +- 0.023
+OMA GETHOGs	1827	13671	0.227 +- 0.014	0.392 +- 0.022
+OMA Groups (RefSet5)	529	6623	0.194 +- 0.025	0.340 +- 0.040
+PANTHER 8.0 (LDO only)	2034	11340	0.243 +- 0.014	0.417 +- 0.021
+OMA Pairs (Refset5)	1314	11997	0.212 +- 0.016	0.364 +- 0.026
