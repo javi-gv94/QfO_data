@@ -19,7 +19,7 @@
             "role": "metrics_reference"
         },
         {
-            "dataset_id": "QfO:2015-01-01_G_STD_Eukaryota_P_EggNOG",
+            "dataset_id": "QfO:2015-01-01_P_EggNOG",
             "role": "participant"
         },
         {
@@ -35,7 +35,7 @@
             "role": "challenge"
         },
         {
-            "dataset_id": "QfO:2015-01-01_G_STD_Eukaryota_P_PANTHER-all",
+            "dataset_id": "QfO:2015-01-01_P_PANTHER-all",
             "role": "participant"
         },
         {
@@ -51,7 +51,7 @@
             "role": "challenge"
         },
         {
-            "dataset_id": "QfO:2015-01-01_G_STD_Eukaryota_P_RBH-BBH",
+            "dataset_id": "QfO:2015-01-01_P_RBH-BBH",
             "role": "participant"
         },
         {
@@ -67,7 +67,7 @@
             "role": "challenge"
         },
         {
-            "dataset_id": "QfO:2015-01-01_G_STD_Eukaryota_P_RSD",
+            "dataset_id": "QfO:2015-01-01_P_RSD",
             "role": "participant"
         },
         {
@@ -83,7 +83,7 @@
             "role": "challenge"
         },
         {
-            "dataset_id": "QfO:2015-01-01_G_STD_Eukaryota_P_MetaPhOrs",
+            "dataset_id": "QfO:2015-01-01_P_MetaPhOrs",
             "role": "participant"
         },
         {
@@ -99,7 +99,7 @@
             "role": "challenge"
         },
         {
-            "dataset_id": "QfO:2015-01-01_G_STD_Eukaryota_P_Orthoinspector",
+            "dataset_id": "QfO:2015-01-01_P_Orthoinspector",
             "role": "participant"
         },
         {
@@ -115,7 +115,7 @@
             "role": "challenge"
         },
         {
-            "dataset_id": "QfO:2015-01-01_G_STD_Eukaryota_P_PhylomeDB",
+            "dataset_id": "QfO:2015-01-01_P_PhylomeDB",
             "role": "participant"
         },
         {
@@ -131,7 +131,7 @@
             "role": "challenge"
         },
         {
-            "dataset_id": "QfO:2015-01-01_G_STD_Eukaryota_P_EnsemblCompara",
+            "dataset_id": "QfO:2015-01-01_P_EnsemblCompara",
             "role": "participant"
         },
         {
@@ -147,7 +147,7 @@
             "role": "challenge"
         },
         {
-            "dataset_id": "QfO:2015-01-01_G_STD_Eukaryota_P_Hieranoid2",
+            "dataset_id": "QfO:2015-01-01_P_Hieranoid2",
             "role": "participant"
         },
         {
@@ -163,7 +163,7 @@
             "role": "challenge"
         },
         {
-            "dataset_id": "QfO:2015-01-01_G_STD_Eukaryota_P_InParanoid",
+            "dataset_id": "QfO:2015-01-01_P_InParanoid",
             "role": "participant"
         },
         {
@@ -179,7 +179,7 @@
             "role": "challenge"
         },
         {
-            "dataset_id": "QfO:2015-01-01_G_STD_Eukaryota_P_InParanoidCore",
+            "dataset_id": "QfO:2015-01-01_P_InParanoidCore",
             "role": "participant"
         },
         {
@@ -195,7 +195,7 @@
             "role": "challenge"
         },
         {
-            "dataset_id": "QfO:2015-01-01_G_STD_Eukaryota_P_OMA-GETHOGs",
+            "dataset_id": "QfO:2015-01-01_P_OMA-GETHOGs",
             "role": "participant"
         },
         {
@@ -211,7 +211,7 @@
             "role": "challenge"
         },
         {
-            "dataset_id": "QfO:2015-01-01_G_STD_Eukaryota_P_OMA-Groups",
+            "dataset_id": "QfO:2015-01-01_P_OMA-Groups",
             "role": "participant"
         },
         {
@@ -227,7 +227,7 @@
             "role": "challenge"
         },
         {
-            "dataset_id": "QfO:2015-01-01_G_STD_Eukaryota_P_PANTHER-LDO",
+            "dataset_id": "QfO:2015-01-01_P_PANTHER-LDO",
             "role": "participant"
         },
         {
@@ -243,7 +243,7 @@
             "role": "challenge"
         },
         {
-            "dataset_id": "QfO:2015-01-01_G_STD_Eukaryota_P_OMA-Pairs",
+            "dataset_id": "QfO:2015-01-01_P_OMA-Pairs",
             "role": "participant"
         },
         {

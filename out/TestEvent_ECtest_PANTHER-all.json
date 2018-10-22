@@ -13,7 +13,7 @@
             "role": "input"
         },
         {
-            "dataset_id": "QfO:2015-01-01_ECtest_P_PANTHER-all",
+            "dataset_id": "QfO:2015-01-01_P_PANTHER-all",
             "role": "participant"
         }
     ],

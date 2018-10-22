@@ -52,10 +52,10 @@
 			"tool_access_type_id": "other",
 			"link": "http://omabrowser.org/oma/current/"
 		}
-	],
-	"tool_contact_id": [
-		"Christophe.Dessimoz",
-		"Adrian.Altenhoff",
-		"OMA.ContactMail"
-	],
+    ],
+    "tool_contact_id": [
+	"Christophe.Dessimoz",
+	"Adrian.Altenhoff",
+	"OMA.ContactMail"
+    ]
 }

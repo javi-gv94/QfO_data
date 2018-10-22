@@ -92,7 +92,7 @@ for method in os.listdir(main_dir + "/Summaries/"):
                       "role": "input"
                    },
                    {
-                        "dataset_id": "QfO:2015-01-01_" + challenge_id + "_P_" + participant,
+                        "dataset_id": "QfO:2015-01-01_P_" + participant,
                         "role": "participant"
                    }
 

@@ -13,7 +13,7 @@
             "role": "input"
         },
         {
-            "dataset_id": "QfO:2015-01-01_G_STD_Fungi_P_EnsemblCompara",
+            "dataset_id": "QfO:2015-01-01_P_EnsemblCompara",
             "role": "participant"
         }
     ],

@@ -3,9 +3,7 @@
 	"_schema": "https://www.elixir-europe.org/excelerate/WP2/json-schemas/0.4/Community",
 	"name": "Quest for Orthologs",
 	"acronym": "QfO",
-	"status_id": [
-		"QfO:Active"
-	],
+	"status": "active",
 	"description": "The Quest for Orthologs (QfO) is a joint effort to benchmark, improve and standardize orthology predictions through collaboration, the use of shared reference datasets, and evaluation of emerging new methods.",
 	"links": [
 		{
